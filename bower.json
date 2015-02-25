@@ -1,0 +1,30 @@
+{
+  "name": "handle-tables",
+  "version": "0.0.1",
+  "authors": [
+    "thiagoaslima"
+  ],
+  "description": "Plugin para lidar com a criação e edição de tabelas em js",
+  "keywords": [
+    "table"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.2",
+    "js-xlsx": "~0.7.11",
+    "papa-parse": "~4.1.0",
+    "datatables": "~1.10.4",
+    "es5-shim": "~4.1.0",
+    "json3": "~3.3.2",
+    "jszip": "Stuk/jszip#~2.4.0",
+    "q": "~1.0.0"
+  }
+}
